@@ -2,7 +2,7 @@
 
 ## Title
 
-Cloud Detection on VENuS Images Using Convolutional Neural Networks
+Using Convolutional Neural Networks for Cloud Detection on VENμS Images over Multiple Land-Cover Types
 
 ## Description
 
@@ -16,4 +16,4 @@ Ondřej Pešek
 
 ## Text of the paper
 
-Here will be a link once it will get published.
+<https://www.mdpi.com/2072-4292/14/20/5210>
